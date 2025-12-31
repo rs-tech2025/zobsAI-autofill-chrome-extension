@@ -58,7 +58,7 @@ This extension showcases:
 ## 📸 Project Screenshots
 
 ### Autofill Form Demo
-![Autofill Demo 1](Screenshots/Screenshot%202025-12-31%20181818.png)
+![Autofill Demo 1](screenshots/Screenshot%202025-12-31%20181818.png)
 
 ### Filled Form Example
 ![Autofill Demo 2](screenshots/Screenshot%202025-12-31%20181845.png)
